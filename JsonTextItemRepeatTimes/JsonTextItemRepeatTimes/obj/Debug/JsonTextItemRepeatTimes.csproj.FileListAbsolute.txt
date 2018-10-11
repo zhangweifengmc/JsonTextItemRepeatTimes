@@ -1,0 +1,10 @@
+D:\source\repos\JsonTextItemRepeatTimes\JsonTextItemRepeatTimes\bin\Debug\JsonTextItemRepeatTimes.exe.config
+D:\source\repos\JsonTextItemRepeatTimes\JsonTextItemRepeatTimes\bin\Debug\JsonTextItemRepeatTimes.exe
+D:\source\repos\JsonTextItemRepeatTimes\JsonTextItemRepeatTimes\bin\Debug\JsonTextItemRepeatTimes.pdb
+D:\source\repos\JsonTextItemRepeatTimes\JsonTextItemRepeatTimes\bin\Debug\Newtonsoft.Json.dll
+D:\source\repos\JsonTextItemRepeatTimes\JsonTextItemRepeatTimes\bin\Debug\Newtonsoft.Json.xml
+D:\source\repos\JsonTextItemRepeatTimes\JsonTextItemRepeatTimes\obj\Debug\JsonTextItemRepeatTimes.csprojResolveAssemblyReference.cache
+D:\source\repos\JsonTextItemRepeatTimes\JsonTextItemRepeatTimes\obj\Debug\JsonTextItemRepeatTimes.csproj.CoreCompileInputs.cache
+D:\source\repos\JsonTextItemRepeatTimes\JsonTextItemRepeatTimes\obj\Debug\JsonTextItemRepeatTimes.csproj.CopyComplete
+D:\source\repos\JsonTextItemRepeatTimes\JsonTextItemRepeatTimes\obj\Debug\JsonTextItemRepeatTimes.exe
+D:\source\repos\JsonTextItemRepeatTimes\JsonTextItemRepeatTimes\obj\Debug\JsonTextItemRepeatTimes.pdb
